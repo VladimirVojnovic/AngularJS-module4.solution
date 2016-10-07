@@ -1,3 +1,4 @@
+<h2>Welcome to our Restaurant!</h2>
 <a ui-sref="home">Home</a> &lt; <span>Categories</span>
 <ul>
     <li ng-repeat="category in $ctrl.list" ui-sref="items({categoryShortName: category.short_name})">{{category.name}}</li>
