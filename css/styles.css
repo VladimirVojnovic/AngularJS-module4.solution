@@ -2,7 +2,7 @@
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 h1 {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 h2 {
   margin-bottom: 15px;
@@ -18,8 +18,11 @@ td {
   vertical-align: middle;
 }
 th {
-  text-align: center;
+  text-align: left;
   vertical-align: middle;
-  font-size: 1.2em;
+  font-size: 1em;
   color: red;
+}
+.table-bordered {
+  border: 1px;
 }
