@@ -1,0 +1,15 @@
+*{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1 {
+  margin-bottom: 30px;
+}
+td {
+  vertical-align: middle;
+}
+th {
+  text-align: center;
+  vertical-align: middle;
+  font-size: 1.2em;
+  color: red;
+}
