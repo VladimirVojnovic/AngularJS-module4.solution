@@ -16,17 +16,25 @@ li[ui-sref]:hover {
 }
 td {
   vertical-align: middle;
+  border: 2px;
+  border-color: gray;
+  border-width: medium;
+  padding: 2px;
+  padding-left: 20px;
 }
 th {
   text-align: left;
   vertical-align: middle;
   font-size: 1em;
   color: red;
+  border: 2px;
+  border-color: gray;
+  border-width: medium;
+  padding: 2px;
+  padding-left: 20px;
 }
 .table-bordered {
   border: 2px;
   border-color: gray;
   border-width: medium;
-  padding: 5px;
-  padding-left: 20px;
 }
