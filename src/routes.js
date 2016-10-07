@@ -39,6 +39,6 @@
           }]
         }
       });
-      console.log(items);
+      console.log($stateParams);
   }
 })();
