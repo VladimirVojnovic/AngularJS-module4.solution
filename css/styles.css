@@ -2,7 +2,10 @@
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
 h1 {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
+}
+h2 {
+  margin-bottom: 15px;
 }
 li[ui-sref]:hover {
   display: inline-block;
