@@ -33,7 +33,7 @@ th {
   padding: 2px;
   padding-left: 20px;
 }
-.table-bordered {
+table.table-bordered {
   border: 2px;
   border-color: gray;
   border-width: medium;
