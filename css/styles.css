@@ -7,6 +7,10 @@ h1 {
 h2 {
   margin-bottom: 15px;
 }
+li[ui-sref]{
+  list-style: none;
+  margin-top: 5px;
+}
 li[ui-sref]:hover {
   display: inline-block;
   cursor: pointer;
