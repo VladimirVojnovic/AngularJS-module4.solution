@@ -1,12 +1,12 @@
 <h2>Welcome to our Restaurant!</h2>
-<a ui-sref="home">Home</a> &lt; <a ui-sref="categories">Categories</a> &lt; <span>{{category.name})</span>
+<a ui-sref="home">Home</a> &lt; <a ui-sref="categories">Categories</a> &lt; <span>{{category.name}}</span>
 
 <table class="table table-bordered">
     <tr>
         <th>Menu item name</th>
         <th>Menu item description</th>
     </tr>
-    <tr ng-repeat="items in $ctrl.list">
+    <tr ng-repeat="item in $ctrl.list">
         <td>{{item.name}}</td>
         <td>{{item.description}}</td>
     </tr>
