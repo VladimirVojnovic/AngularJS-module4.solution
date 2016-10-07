@@ -19,6 +19,7 @@ td {
   border:solid gray 1px;
   padding: 2px;
   padding-left: 20px;
+  padding-right: 20px;
 }
 th {
   text-align: left;
@@ -28,6 +29,7 @@ th {
   color: red;
   padding: 2px;
   padding-left: 20px;
+  padding-right: 20px;
 }
 table {
   border:solid gray 1px;
